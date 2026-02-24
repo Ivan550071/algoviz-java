@@ -31,7 +31,7 @@ mvn clean javafx:run
 ## Features
 
 ### 1) Sorting Visualizer
-- Multiple sorting algorithms (Bubble Sort + additional implemented sorts)
+- Multiple sorting algorithms
 - Random array generation
 - Step generation + playback
 - **Play / Pause / Step / Reset** controls
