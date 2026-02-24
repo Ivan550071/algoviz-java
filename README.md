@@ -11,7 +11,9 @@ This project currently includes visualizations for:
 ---
 ## Run project
 
+''bash
 mvn clean javafx:run
+'''
 
 ---
 
