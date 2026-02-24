@@ -18,13 +18,13 @@ mvn clean javafx:run
 ## Screenshots
 
 ### Sorting Visualizer
-![Sorting Visualizer](docs/screenshots/sorting.png)
+![Sorting Visualizer](docs/sorting.png)
 
 ### Maze Visualizer (DFS/BFS)
-![Maze Visualizer](docs/screenshots/maze.png)
+![Maze Visualizer](docs/maze.png)
 
 ### Tree Visualizer (BST)
-![Tree Visualizer](docs/screenshots/trees.png)
+![Tree Visualizer](docs/trees.png)
 
 ---
 
